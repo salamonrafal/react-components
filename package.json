@@ -1,0 +1,26 @@
+{
+  "name": "react-components-rxc",
+  "version": "1.0.0",
+  "description": "Basic React components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salamonrafal/react-components.git"
+  },
+  "keywords": [
+    "React",
+    "components"
+  ],
+  "author": "Rafal Salamon <rasa@salamonrafal.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salamonrafal/react-components/issues"
+  },
+  "homepage": "https://github.com/salamonrafal/react-components#readme",
+  "dependencies": {
+    "scss-modules-for-rxc": "file:scss-modules-for-rxc-1.0.2.tgz"
+  }
+}
